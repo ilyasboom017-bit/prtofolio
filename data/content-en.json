@@ -1,0 +1,44 @@
+{
+    "nav_home": "Home",
+    "nav_about": "About",
+    "nav_skills": "Skills",
+    "nav_projects": "Projects",
+    "nav_contact": "Contact",
+
+    "hero_tagline": "Designing the Future, Automating the Present.",
+    "hero_intro": "I am Abdulaziz Alyas, a multi-disciplinary creative professional.",
+    "hero_cta_work": "View My Work",
+    "hero_cta_contact": "Let's Talk",
+
+    "about_title": "About Me",
+    "about_text": "I bridge the gap between creativity and technology. With a passion for refined aesthetics and efficient automation, I create digital experiences that are not only beautiful but also intelligent. My work is driven by a desire to innovate and simplify.",
+
+    "skills_title": "My Expertise",
+    "skill_design": "Graphic Design",
+    "skill_design_desc": "Visual identity, UI/UX, and branding with a premium touch.",
+    "skill_automation": "Automation",
+    "skill_automation_desc": "Streamlining workflows using modern tools and scripts.",
+    "skill_video": "Video Editing",
+    "skill_video_desc": "Cinematic storytelling and motion graphics.",
+    "skill_ai": "AI & Vibe Coding",
+    "skill_ai_desc": "Leveraging AI to accelerate development and creativity.",
+
+    "projects_title": "Selected Works",
+    "project_1_title": "Brand Evolution",
+    "project_1_desc": "A complete rebrand for a modern tech startup.",
+    "project_1_cat": "Design",
+    "project_2_title": "Workflow Auto-Pilot",
+    "project_2_desc": "Automated content distribution system.",
+    "project_2_cat": "Automation",
+    "project_3_title": "Visual Rhythm",
+    "project_3_desc": "A high-energy promotional video edit.",
+    "project_3_cat": "Video",
+
+    "contact_title": "Get In Touch",
+    "contact_name": "Your ID / Name",
+    "contact_email": "Your Email",
+    "contact_message": "Your Message",
+    "contact_submit": "Send Message",
+
+    "footer_copy": "© 2026 Abdulaziz Alyas. Crafted with creativity."
+}
