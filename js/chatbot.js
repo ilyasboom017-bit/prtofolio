@@ -8,7 +8,7 @@ let userMessage = null; // Variable to store user's message
 const inputInitHeight = chatInput.scrollHeight;
 
 // API URL
-const API_URL = "https://ilyas1abdelaziz.app.n8n.cloud/webhook/chatbot";
+const API_URL = "https://ilyas1abdelaziz.app.n8n.cloud/webhook-test/chatbot";
 
 const createChatLi = (message, className) => {
     // Create a chat <li> element with passed message and className
@@ -90,4 +90,5 @@ chatInput.addEventListener("keydown", (e) => {
 sendChatBtn.addEventListener("click", handleChat);
 closeBtn.addEventListener("click", () => document.body.classList.remove("show-chatbot"));
 chatbotToggler.addEventListener("click", () => document.body.classList.toggle("show-chatbot"));
+
 
