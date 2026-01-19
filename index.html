@@ -180,26 +180,22 @@
     <script src="js/lang.js"></script>
     <script src="js/main.js"></script>
     <!-- Chatbot -->
-    <button class="chatbot-toggler">
-        <span class="material-symbols-rounded">chat_mode</span>
-        <span class="material-symbols-rounded">close</span>
-    </button>
-    <div class="chatbot">
-        <header>
-            <h2>Chatbot</h2>
-            <span class="close-btn material-symbols-rounded">close</span>
-        </header>
-        <ul class="chatbox">
-            <li class="chat incoming">
-                <span class="material-symbols-rounded">smart_toy</span>
-                <p>Hi there 👋<br>How can I help you today?</p>
-            </li>
-        </ul>
-        <div class="chat-input">
-            <textarea placeholder="Enter a message..." spellcheck="false" required></textarea>
-            <span id="send-btn" class="material-symbols-rounded">send</span>
-        </div>
-    </div>
+    <!-- Chatbot -->
+<button class="chatbot-toggler">
+    <span class="material-symbols-rounded">chat_mode</span>
+    <span class="material-symbols-rounded">close</span>
+</button>
+
+<div class="chatbot">
+    <header>
+        <h2>Chatbot</h2>
+        <span class="close-btn material-symbols-rounded">close</span>
+    </header>
+
+    <!-- n8n chat will be injected here -->
+    <div id="n8n-chat"></div>
+</div>
+
 
     <!-- Import Google Fonts for Icons -->
     <link rel="stylesheet"
@@ -207,5 +203,6 @@
 
     <script src="js/chatbot.js"></script>
 </body>
+
 
 </html>
